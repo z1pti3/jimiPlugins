@@ -1,4 +1,25 @@
 {
+  "api" : {
+    "githubRepo" : "z1pti3/jimiPlugin-api"
+  },
+  "choice" : {
+    "githubRepo" : "z1pti3/jimiPlugin-choice"
+  },
+  "email" : {
+    "githubRepo" : "z1pti3/jimiPlugin-email"
+  },
+  "event" : {
+    "githubRepo" : "z1pti3/jimiPlugin-event"
+  },
+  "occurrence" : {
+    "githubRepo" : "z1pti3/jimiPlugin-occurrence"
+  },
+  "playbook" : {
+    "githubRepo" : "z1pti3/jimiPlugin-playbook"
+  },
+  "script" : {
+    "githubRepo" : "z1pti3/jimiPlugin-script"
+  },
   "testFire" : {
     "githubRepo" : "z1pti3/jimiPlugin-testFire"
   }
