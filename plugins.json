@@ -22,5 +22,26 @@
   },
   "testFire" : {
     "githubRepo" : "z1pti3/jimiPlugin-testFire"
+  },
+  "gvm" : {
+    "githubRepo" : "z1pti3/jimiPlugin-gvm"
+  },
+  "chevron" : {
+    "githubRepo" : "z1pti3/jimiPlugin-chevron"
+  },
+  "jinja" : {
+    "githubRepo" : "z1pti3/jimiPlugin-jinja"
+  },
+  "microsoftteamswebhooks" : {
+    "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks"
+  },
+  "inboundwebhook" : {
+    "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook"
+  },
+  "azurebotservice" : {
+    "githubRepo" : "z1pti3/jimiPlugin-azurebotservice"
+  },
+  "sophos" : {
+    "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos"
   }
 }
