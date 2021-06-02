@@ -45,6 +45,6 @@
     "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos"
   },
   "humio" : {
-    "humioRepo" : "z1pti3/jimiPlugin-humio"
+    "githubRepo" : "z1pti3/jimiPlugin-humio"
   }
 }
