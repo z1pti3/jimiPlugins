@@ -2,12 +2,12 @@
   "api" : {
     "githubRepo" : "z1pti3/jimiPlugin-api",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/1552677955.png"
   },
   "choice" : {
     "githubRepo" : "z1pti3/jimiPlugin-choice",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/ftview-choose.png"
   },
   "email" : {
     "githubRepo" : "z1pti3/jimiPlugin-email",
@@ -17,27 +17,27 @@
   "event" : {
     "githubRepo" : "z1pti3/jimiPlugin-event",
     "description" : "SIEM/XDR functionality",
-    "image" : ""
+    "image" : "https://freesvg.org/img/spy-behind-pc.png"
   },
   "occurrence" : {
     "githubRepo" : "z1pti3/jimiPlugin-occurrence",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/red_signal_light.png"
   },
   "playbook" : {
     "githubRepo" : "z1pti3/jimiPlugin-playbook",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/old-timey-GPS.png"
   },
   "script" : {
     "githubRepo" : "z1pti3/jimiPlugin-script",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/matt-icons_text-x-generic-script.png"
   },
   "testFire" : {
     "githubRepo" : "z1pti3/jimiPlugin-testFire",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/Test-fixed.png"
   },
   "gvm" : {
     "githubRepo" : "z1pti3/jimiPlugin-gvm",
@@ -47,12 +47,12 @@
   "chevron" : {
     "githubRepo" : "z1pti3/jimiPlugin-chevron",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/format-indent-more.png"
   },
   "jinja" : {
     "githubRepo" : "z1pti3/jimiPlugin-jinja",
     "description" : "",
-    "image" : ""
+    "image" : "https://jinja2docs.readthedocs.io/en/stable/_static/jinja-small.png"
   },
   "microsoftteamswebhooks" : {
     "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks",
@@ -62,7 +62,7 @@
   "inboundwebhook" : {
     "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/HMTL.png"
   },
   "azurebotservice" : {
     "githubRepo" : "z1pti3/jimiPlugin-azurebotservice",
