@@ -1,50 +1,66 @@
 {
   "api" : {
-    "githubRepo" : "z1pti3/jimiPlugin-api"
+    "githubRepo" : "z1pti3/jimiPlugin-api",
+    "description" : ""
   },
   "choice" : {
-    "githubRepo" : "z1pti3/jimiPlugin-choice"
+    "githubRepo" : "z1pti3/jimiPlugin-choice",
+    "description" : ""
   },
   "email" : {
-    "githubRepo" : "z1pti3/jimiPlugin-email"
+    "githubRepo" : "z1pti3/jimiPlugin-email",
+    "description" : ""
   },
   "event" : {
-    "githubRepo" : "z1pti3/jimiPlugin-event"
+    "githubRepo" : "z1pti3/jimiPlugin-event",
+    "description" : "SIEM/SOAR functionality"
   },
   "occurrence" : {
-    "githubRepo" : "z1pti3/jimiPlugin-occurrence"
+    "githubRepo" : "z1pti3/jimiPlugin-occurrence",
+    "description" : ""
   },
   "playbook" : {
-    "githubRepo" : "z1pti3/jimiPlugin-playbook"
+    "githubRepo" : "z1pti3/jimiPlugin-playbook",
+    "description" : ""
   },
   "script" : {
-    "githubRepo" : "z1pti3/jimiPlugin-script"
+    "githubRepo" : "z1pti3/jimiPlugin-script",
+    "description" : ""
   },
   "testFire" : {
-    "githubRepo" : "z1pti3/jimiPlugin-testFire"
+    "githubRepo" : "z1pti3/jimiPlugin-testFire",
+    "description" : ""
   },
   "gvm" : {
-    "githubRepo" : "z1pti3/jimiPlugin-gvm"
+    "githubRepo" : "z1pti3/jimiPlugin-gvm",
+    "description" : ""
   },
   "chevron" : {
-    "githubRepo" : "z1pti3/jimiPlugin-chevron"
+    "githubRepo" : "z1pti3/jimiPlugin-chevron",
+    "description" : ""
   },
   "jinja" : {
-    "githubRepo" : "z1pti3/jimiPlugin-jinja"
+    "githubRepo" : "z1pti3/jimiPlugin-jinja",
+    "description" : ""
   },
   "microsoftteamswebhooks" : {
-    "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks"
+    "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks",
+    "description" : ""
   },
   "inboundwebhook" : {
-    "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook"
+    "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook",
+    "description" : ""
   },
   "azurebotservice" : {
-    "githubRepo" : "z1pti3/jimiPlugin-azurebotservice"
+    "githubRepo" : "z1pti3/jimiPlugin-azurebotservice",
+    "description" : ""
   },
   "sophos" : {
-    "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos"
+    "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos",
+    "description" : ""
   },
   "humio" : {
-    "githubRepo" : "z1pti3/jimiPlugin-humio"
+    "githubRepo" : "z1pti3/jimiPlugin-humio",
+    "description" : "Humio API intergration for searching and ingesting events."
   }
 }
