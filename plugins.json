@@ -42,7 +42,7 @@
   "gvm" : {
     "githubRepo" : "z1pti3/jimiPlugin-gvm",
     "description" : "",
-    "image" : "https://upload.wikimedia.org/wikipedia/commons/0/0a/OpenVAS-Logo-2010.png"
+    "image" : "https://www.greenbone.net/wp-content/uploads/01_Logo-mit-Schriftzug_500px_on_white_horiz1.jpg"
   },
   "chevron" : {
     "githubRepo" : "z1pti3/jimiPlugin-chevron",
