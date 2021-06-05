@@ -1,63 +1,78 @@
 {
   "api" : {
     "githubRepo" : "z1pti3/jimiPlugin-api",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "choice" : {
     "githubRepo" : "z1pti3/jimiPlugin-choice",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "email" : {
     "githubRepo" : "z1pti3/jimiPlugin-email",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "event" : {
     "githubRepo" : "z1pti3/jimiPlugin-event",
-    "description" : "SIEM/SOAR functionality"
+    "description" : "SIEM/SOAR functionality",
+    "image" : ""
   },
   "occurrence" : {
     "githubRepo" : "z1pti3/jimiPlugin-occurrence",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "playbook" : {
     "githubRepo" : "z1pti3/jimiPlugin-playbook",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "script" : {
     "githubRepo" : "z1pti3/jimiPlugin-script",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "testFire" : {
     "githubRepo" : "z1pti3/jimiPlugin-testFire",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "gvm" : {
     "githubRepo" : "z1pti3/jimiPlugin-gvm",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "chevron" : {
     "githubRepo" : "z1pti3/jimiPlugin-chevron",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "jinja" : {
     "githubRepo" : "z1pti3/jimiPlugin-jinja",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "microsoftteamswebhooks" : {
     "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "inboundwebhook" : {
     "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "azurebotservice" : {
     "githubRepo" : "z1pti3/jimiPlugin-azurebotservice",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "sophos" : {
     "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos",
-    "description" : ""
+    "description" : "",
+    "image" : ""
   },
   "humio" : {
     "githubRepo" : "z1pti3/jimiPlugin-humio",
