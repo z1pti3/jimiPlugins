@@ -12,11 +12,11 @@
   "email" : {
     "githubRepo" : "z1pti3/jimiPlugin-email",
     "description" : "",
-    "image" : ""
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28at%29.svg/170px-%28at%29.svg.png"
   },
   "event" : {
     "githubRepo" : "z1pti3/jimiPlugin-event",
-    "description" : "SIEM/SOAR functionality",
+    "description" : "SIEM/XDR functionality",
     "image" : ""
   },
   "occurrence" : {
@@ -42,7 +42,7 @@
   "gvm" : {
     "githubRepo" : "z1pti3/jimiPlugin-gvm",
     "description" : "",
-    "image" : ""
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/0/0a/OpenVAS-Logo-2010.png"
   },
   "chevron" : {
     "githubRepo" : "z1pti3/jimiPlugin-chevron",
@@ -57,7 +57,7 @@
   "microsoftteamswebhooks" : {
     "githubRepo" : "z1pti3/jimiPlugin-microsoftteamswebhooks",
     "description" : "",
-    "image" : ""
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/69px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png"
   },
   "inboundwebhook" : {
     "githubRepo" : "z1pti3/jimiPlugin-inboundwebhook",
@@ -67,12 +67,12 @@
   "azurebotservice" : {
     "githubRepo" : "z1pti3/jimiPlugin-azurebotservice",
     "description" : "",
-    "image" : ""
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png"
   },
   "sophos" : {
     "githubRepo" : "b1scuit-thi3f/jimiPlugin-sophos",
     "description" : "",
-    "image" : ""
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sophos_logo2.svg/220px-Sophos_logo2.svg.png"
   },
   "humio" : {
     "githubRepo" : "z1pti3/jimiPlugin-humio",
