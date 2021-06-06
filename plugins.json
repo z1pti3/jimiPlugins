@@ -82,116 +82,116 @@
   "urlscan" : {
     "githubRepo" : "z1pti3/jimiPlugin-urlscan",
     "description" : "",
-    "image" : ""
+    "image" : "https://urlscan.io/img/urlscan_256.png"
   },
   "abuseipdb" : {
     "githubRepo" : "z1pti3/jimiPlugin-abuseipdb",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.abuseipdb.com/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png"
   },
   "fuzzymatch" : {
     "githubRepo" : "z1pti3/jimiPlugin-fuzzymatch",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/fttogglefuzzy.png"
   },
   "digitalocean" : {
     "githubRepo" : "z1pti3/jimiPlugin-digitalocean",
     "description" : "",
-    "image" : ""
+    "image" : "https://d9hhrg4mnvzow.cloudfront.net/try.digitalocean.com/developerbrand/affcaf03-do-logo.svg"
   },  
   "virustotal" : {
     "githubRepo" : "z1pti3/jimiPlugin-virustotal",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.virustotal.com/gui/images/vt-enterprise.svg"
   },
   "viewonce" : {
     "githubRepo" : "z1pti3/jimiPlugin-viewonce",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/1520456808.png"
   },
   "vuldb" : {
     "githubRepo" : "z1pti3/jimiPlugin-vuldb",
     "description" : "",
-    "image" : ""
+    "image" : "https://th.bing.com/th/id/OIP.GLsC5UqM9ALMuzh4plI4lwAAAA?pid=ImgDet&rs=1"
   },
   "whoisxmlapi" : {
     "githubRepo" : "z1pti3/jimiPlugin-whoisxmlapi",
     "description" : "",
-    "image" : ""
+    "image" : "https://main.whoisxmlapi.com/products-vue-assets/public/images/common/logos/whoisxmlapi-h-notag.svg?v2"
   },
   "ip2whois" : {
     "githubRepo" : "z1pti3/jimiPlugin-ip2whois",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.ip2whois.com/assets/img/ip2whois-logo-blue.png"
   },
   "honeydb" : {
     "githubRepo" : "z1pti3/jimiPlugin-honeydb",
     "description" : "",
-    "image" : ""
+    "image" : "https://honeydb.io/static/img/honeydb.png"
   },
   "clicksend" : {
     "githubRepo" : "z1pti3/jimiPlugin-clicksend",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.smscomparison.co.uk/wp-content/uploads/2017/12/ClickSend-Bulk-Text-Message-Logo.jpg"
   },
   "unshorten" : {
     "githubRepo" : "z1pti3/jimiPlugin-unshorten",
     "description" : "",
-    "image" : ""
+    "image" : "https://static.unshorten.me/images/unshorten.png"
   },
   "dshield" : {
     "githubRepo" : "z1pti3/jimiPlugin-dshield",
     "description" : "",
-    "image" : ""
+    "image" : "https://blog.rootshell.be/wp-content/uploads/2011/07/dshield.gif"
   },
   "state" : {
     "githubRepo" : "z1pti3/jimiPlugin-state",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/cyberscooty-switch-on-and-off.png"
   },
   "inga" : {
     "githubRepo" : "z1pti3/jimiPlugin-inga",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/Info-Button.png"
   },
   "shodan" : {
     "githubRepo" : "z1pti3/jimiPlugin-shodan",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.shodan.io/static/img/logo.png"
   },
   "philipshue" : {
     "githubRepo" : "z1pti3/jimiPlugin-philipshue",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.philips-hue.com/content/experience-fragments/hue/gb/en/navigation/header/master/_jcr_content/root/navigation_component/desktop.signifyimg.82.200.png/1605107550565.png"
   },
   "splunk" : {
     "githubRepo" : "z1pti3/jimiPlugin-splunk",
     "description" : "",
-    "image" : ""
+    "image" : "https://www.splunk.com/content/dam/splunk-logo-dark.svg"
   },
   "screenshotapi" : {
     "githubRepo" : "z1pti3/jimiPlugin-screenshotapi",
     "description" : "",
-    "image" : ""
+    "image" : "https://uploads-ssl.webflow.com/604cb3dd2499853e0b14282c/604cba665e98883d717e6c9a_screenshot-api-logotext-removebg-preview-p-500.png"
   },
   "remote" : {
     "githubRepo" : "z1pti3/jimiPlugin-remote",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/MachR-smile.png"
   },
   "monitor" : {
     "githubRepo" : "z1pti3/jimiPlugin-monitor",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/openstack-family.png"
   },
   "learn" : {
     "githubRepo" : "z1pti3/jimiPlugin-learn",
     "description" : "",
-    "image" : ""
+    "image" : "https://freesvg.org/img/1538298822.png"
   },
   "dnstwister" : {
     "githubRepo" : "z1pti3/jimiPlugin-dnstwister",
     "description" : "",
-    "image" : ""
+    "image" : "https://dnstwister.report/static/icon-8.png"
   }
 }
