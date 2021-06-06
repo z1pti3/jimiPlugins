@@ -78,5 +78,120 @@
     "githubRepo" : "z1pti3/jimiPlugin-humio",
     "description" : "Humio API intergration for searching and ingesting events.",
     "image" : "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/dbkyrzkho9nqxghmtlcq"
+  },
+  "urlscan" : {
+    "githubRepo" : "z1pti3/jimiPlugin-urlscan",
+    "description" : "",
+    "image" : ""
+  },
+  "abuseipdb" : {
+    "githubRepo" : "z1pti3/jimiPlugin-abuseipdb",
+    "description" : "",
+    "image" : ""
+  },
+  "fuzzymatch" : {
+    "githubRepo" : "z1pti3/jimiPlugin-fuzzymatch",
+    "description" : "",
+    "image" : ""
+  },
+  "digitalocean" : {
+    "githubRepo" : "z1pti3/jimiPlugin-digitalocean",
+    "description" : "",
+    "image" : ""
+  },  
+  "virustotal" : {
+    "githubRepo" : "z1pti3/jimiPlugin-virustotal",
+    "description" : "",
+    "image" : ""
+  },
+  "viewonce" : {
+    "githubRepo" : "z1pti3/jimiPlugin-viewonce",
+    "description" : "",
+    "image" : ""
+  },
+  "vuldb" : {
+    "githubRepo" : "z1pti3/jimiPlugin-vuldb",
+    "description" : "",
+    "image" : ""
+  },
+  "whoisxmlapi" : {
+    "githubRepo" : "z1pti3/jimiPlugin-whoisxmlapi",
+    "description" : "",
+    "image" : ""
+  },
+  "ip2whois" : {
+    "githubRepo" : "z1pti3/jimiPlugin-ip2whois",
+    "description" : "",
+    "image" : ""
+  },
+  "honeydb" : {
+    "githubRepo" : "z1pti3/jimiPlugin-honeydb",
+    "description" : "",
+    "image" : ""
+  },
+  "clicksend" : {
+    "githubRepo" : "z1pti3/jimiPlugin-clicksend",
+    "description" : "",
+    "image" : ""
+  },
+  "unshorten" : {
+    "githubRepo" : "z1pti3/jimiPlugin-unshorten",
+    "description" : "",
+    "image" : ""
+  },
+  "dshield" : {
+    "githubRepo" : "z1pti3/jimiPlugin-dshield",
+    "description" : "",
+    "image" : ""
+  },
+  "state" : {
+    "githubRepo" : "z1pti3/jimiPlugin-state",
+    "description" : "",
+    "image" : ""
+  },
+  "inga" : {
+    "githubRepo" : "z1pti3/jimiPlugin-inga",
+    "description" : "",
+    "image" : ""
+  },
+  "shodan" : {
+    "githubRepo" : "z1pti3/jimiPlugin-shodan",
+    "description" : "",
+    "image" : ""
+  },
+  "philipshue" : {
+    "githubRepo" : "z1pti3/jimiPlugin-philipshue",
+    "description" : "",
+    "image" : ""
+  },
+  "splunk" : {
+    "githubRepo" : "z1pti3/jimiPlugin-splunk",
+    "description" : "",
+    "image" : ""
+  },
+  "screenshotapi" : {
+    "githubRepo" : "z1pti3/jimiPlugin-screenshotapi",
+    "description" : "",
+    "image" : ""
+  },
+  "remote" : {
+    "githubRepo" : "z1pti3/jimiPlugin-remote",
+    "description" : "",
+    "image" : ""
+  },
+  "monitor" : {
+    "githubRepo" : "z1pti3/jimiPlugin-monitor",
+    "description" : "",
+    "image" : ""
+  },
+  "learn" : {
+    "githubRepo" : "z1pti3/jimiPlugin-learn",
+    "description" : "",
+    "image" : ""
+  },
+  "dnstwister" : {
+    "githubRepo" : "z1pti3/jimiPlugin-dnstwister",
+    "description" : "",
+    "image" : ""
   }
 }
