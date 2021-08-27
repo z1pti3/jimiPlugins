@@ -194,9 +194,9 @@
     "description" : "",
     "image" : "https://dnstwister.report/static/icon-8.png"
   },
-  "dnstwister" : {
+  "asset" : {
     "githubRepo" : "z1pti3/jimiPlugin-asset",
     "description" : "Asset Management",
-    "image" : "http://cdn.onlinewebfonts.com/svg/download_356190.svg"
+    "image" : "https://pic.onlinewebfonts.com/svg/img_356190.svg"
   }
 }
