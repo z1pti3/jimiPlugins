@@ -193,5 +193,10 @@
     "githubRepo" : "z1pti3/jimiPlugin-dnstwister",
     "description" : "",
     "image" : "https://dnstwister.report/static/icon-8.png"
+  },
+  "dnstwister" : {
+    "githubRepo" : "z1pti3/jimiPlugin-asset",
+    "description" : "Asset Management",
+    "image" : "http://cdn.onlinewebfonts.com/svg/download_356190.svg"
   }
 }
