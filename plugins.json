@@ -198,5 +198,15 @@
     "githubRepo" : "z1pti3/jimiPlugin-asset",
     "description" : "Asset Management",
     "image" : "https://pic.onlinewebfonts.com/svg/img_356190.svg"
+  },
+  "fortiManager" : {
+    "githubRepo" : "z1pti3/jimiPlugin-fortiManager",
+    "description" : "",
+    "image" : ""
+  },
+  "networkCalc" : {
+    "githubRepo" : "z1pti3/jimiPlugin-networkCalc",
+    "description" : "",
+    "image" : ""
   }
 }
