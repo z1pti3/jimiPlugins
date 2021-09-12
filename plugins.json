@@ -208,5 +208,15 @@
     "githubRepo" : "z1pti3/jimiPlugin-networkCalc",
     "description" : "",
     "image" : ""
+  },
+  "webTrigger" : {
+    "githubRepo" : "z1pti3/jimiPlugin-webTrigger",
+    "description" : "",
+    "image" : ""
+  },
+  "misp" : {
+    "githubRepo" : "z1pti3/jimiPlugin-misp",
+    "description" : "",
+    "image" : ""
   }
 }
